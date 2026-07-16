@@ -6,7 +6,7 @@ This README doubles as the project devlog — a running, plain-language log of w
 
 ---
 
-## 2026-07-11 — Project kickoff, AI vision prototype
+## Project kickoff, AI vision prototype
 
 ### Where we're at
 
